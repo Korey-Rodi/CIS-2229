@@ -9,3 +9,13 @@
 #profileCard img {
     width: 100%;
 }
+
+body {
+    background-color: #1e1e1e; 
+    color: white;            
+}
+
+#fun_facts {
+    background-color: aliceblue;
+    color: black;   
+}

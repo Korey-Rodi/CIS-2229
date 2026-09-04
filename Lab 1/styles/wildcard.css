@@ -1,0 +1,21 @@
+body {
+    background-color: #1e1e1e;
+    color: white;
+     text-align: center;
+}
+
+#Kendall {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+#Kendall img {
+    width: 300px;
+}
+
+ol {
+    display: inline-block;
+    text-align: left;
+}
+
